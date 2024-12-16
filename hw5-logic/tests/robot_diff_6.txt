@@ -1,0 +1,145 @@
+0a1,2
+> 2024-10-24 09:55:31.589 java[34705:9163975] +[IMKClient subclass]: chose IMKClient_Legacy
+> 2024-10-24 09:55:31.589 java[34705:9163975] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+16c18
+<   5re     out         out_blocked           0
+---
+>   5re     out         out_blocked           1
+20c22
+<   6re     out         out_position          1
+---
+>   6re     out         out_position          0
+23c25
+<   7re     out         out_position          1
+---
+>   7re     out         out_position          0
+26c28
+<   8re     out         out_position          1
+---
+>   8re     out         out_position          0
+28c30
+<   9re     out         out_blocked           0
+---
+>   9re     out         out_blocked           1
+49c51
+<   16re    out         out_blocked           0
+---
+>   16re    out         out_blocked           1
+53c55
+<   17re    out         out_position          3
+---
+>   17re    out         out_position          0
+55,56c57,58
+<   18re    out         out_blocked           0
+<   18re    out         out_position          2
+---
+>   18re    out         out_blocked           1
+>   18re    out         out_position          0
+59c61
+<   19re    out         out_position          2
+---
+>   19re    out         out_position          0
+62c64
+<   20re    out         out_position          2
+---
+>   20re    out         out_position          0
+65c67
+<   21re    out         out_position          2
+---
+>   21re    out         out_position          0
+67c69
+<   22re    out         out_blocked           0
+---
+>   22re    out         out_blocked           1
+94c96
+<   31re    out         out_blocked           1
+---
+>   31re    out         out_blocked           0
+97c99
+<   32re    out         out_blocked           0
+---
+>   32re    out         out_blocked           1
+109c111
+<   36re    out         out_blocked           0
+---
+>   36re    out         out_blocked           1
+113c115
+<   37re    out         out_position          3
+---
+>   37re    out         out_position          0
+115,116c117,118
+<   38re    out         out_blocked           0
+<   38re    out         out_position          1
+---
+>   38re    out         out_blocked           1
+>   38re    out         out_position          0
+118c120
+<   39re    out         out_blocked           0
+---
+>   39re    out         out_blocked           1
+187c189
+<   62re    out         out_blocked           0
+---
+>   62re    out         out_blocked           1
+191c193
+<   63re    out         out_position          2
+---
+>   63re    out         out_position          0
+193c195
+<   64re    out         out_blocked           0
+---
+>   64re    out         out_blocked           1
+214c216
+<   71re    out         out_blocked           0
+---
+>   71re    out         out_blocked           1
+226c228
+<   75re    out         out_blocked           0
+---
+>   75re    out         out_blocked           1
+230c232
+<   76re    out         out_position          3
+---
+>   76re    out         out_position          0
+232,233c234,235
+<   77re    out         out_blocked           0
+<   77re    out         out_position          1
+---
+>   77re    out         out_blocked           1
+>   77re    out         out_position          0
+235c237
+<   78re    out         out_blocked           0
+---
+>   78re    out         out_blocked           1
+280c282
+<   93re    out         out_blocked           0
+---
+>   93re    out         out_blocked           1
+284c286
+<   94re    out         out_position          3
+---
+>   94re    out         out_position          0
+287c289
+<   95re    out         out_position          3
+---
+>   95re    out         out_position          0
+289,290c291,292
+<   96re    out         out_blocked           1
+<   96re    out         out_position          3
+---
+>   96re    out         out_blocked           0
+>   96re    out         out_position          1
+292,293c294,295
+<   97re    out         out_blocked           1
+<   97re    out         out_position          3
+---
+>   97re    out         out_blocked           0
+>   97re    out         out_position          2
+296c298
+<   98re    out         out_position          3
+---
+>   98re    out         out_position          2
+298c300
+<   99re    out         out_blocked           1
+---
+>   99re    out         out_blocked           0

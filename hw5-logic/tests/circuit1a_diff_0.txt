@@ -1,0 +1,3 @@
+0a1,2
+> 2024-10-24 09:55:16.176 java[34646:9162638] +[IMKClient subclass]: chose IMKClient_Legacy
+> 2024-10-24 09:55:16.176 java[34646:9162638] +[IMKInputSession subclass]: chose IMKInputSession_Legacy

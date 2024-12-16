@@ -1,0 +1,15 @@
+0a1,2
+> 2024-10-24 09:55:30.146 java[34699:9163841] +[IMKClient subclass]: chose IMKClient_Legacy
+> 2024-10-24 09:55:30.146 java[34699:9163841] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+16c18
+<   5re     out         out_blocked           0
+---
+>   5re     out         out_blocked           1
+20c22
+<   6re     out         out_position          1
+---
+>   6re     out         out_position          0
+22c24
+<   7re     out         out_blocked           0
+---
+>   7re     out         out_blocked           1

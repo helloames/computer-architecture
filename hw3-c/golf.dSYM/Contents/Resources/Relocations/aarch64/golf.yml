@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     golf
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z9printListP10GolfPlayer, symObjAddr: 0x0, symBinAddr: 0x100003B50, symSize: 0xC4 }
+  - { offsetInCU: 0x9C, offset: 0x9C, size: 0x8, addend: 0x0, symName: __Z9printListP10GolfPlayer, symObjAddr: 0x0, symBinAddr: 0x100003B50, symSize: 0xC4 }
+  - { offsetInCU: 0xE0, offset: 0xE0, size: 0x8, addend: 0x0, symName: __Z7compareP10GolfPlayerS0_, symObjAddr: 0xC4, symBinAddr: 0x100003C14, symSize: 0x94 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: __Z12insertPlayerP10GolfPlayerS0_, symObjAddr: 0x158, symBinAddr: 0x100003CA8, symSize: 0x120 }
+  - { offsetInCU: 0x162, offset: 0x162, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x278, symBinAddr: 0x100003DC8, symSize: 0x158 }
+...

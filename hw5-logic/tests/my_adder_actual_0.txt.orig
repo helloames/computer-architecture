@@ -1,0 +1,5 @@
+2024-10-24 09:55:20.489 java[34675:9163192] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-24 09:55:20.489 java[34675:9163192] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+  0       out         ovf                   0x00
+  0       out         result                0x245
+
